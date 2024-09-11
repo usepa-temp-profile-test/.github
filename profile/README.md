@@ -4,4 +4,4 @@ As part of the government's open source initiative, we publish software here and
 
 Here are some interesting topics to explore: [#ord (Research)](https://github.com/usepa?q=%23ord) [#ow (Water)](https://github.com/usepa?q=%23ow) [#oar (Air and Radiation)](https://github.com/usepa?q=%23oar)
 
-[Job postings here: usabjos.gov](https://www.usajobs.gov/Search/Results?a=EP00&hp=public&p=1).
+[Job postings here: usabjobs.gov](https://www.usajobs.gov/Search/Results?a=EP00&hp=public&p=1).
